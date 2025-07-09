@@ -1,12 +1,67 @@
-# React + Vite
+# QuickKeys – Seamless Car Rental Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**QuickKeys** is a modern, responsive car rental platform built using **React**, **Tailwind CSS**, and **Vite**. Designed for both renters and vehicle owners, the platform simplifies the process of browsing, booking, and managing car rentals with an intuitive user experience and clean, fast-loading UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features
 
-## Expanding the ESLint configuration
+* Sleek and responsive frontend interface
+* Browse available cars with detailed specs and images
+* Owner dashboard to add and manage car listings *(coming soon)*
+* Role-based login and authentication *(in progress)*
+* Future integration for bookings and secure payments
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+* **Frontend:** React.js, Tailwind CSS, Vite
+* **Backend (in development):** Node.js, Express.js, MongoDB
+* **Authentication:** JWT-based (upcoming)
+
+---
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/quickkeys.git
+cd quickkeys/Client
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the Development Server
+
+```bash
+npm run dev
+```
+
+The app will run locally at `http://localhost:5173`
+
+---
+
+```
+quickkeys/
+├── Client/            # Frontend code
+└── Server/ (upcoming) # Backend code 
+```
+
+---
+
+## Future Plans
+
+* Backend integration with Node.js, Express and MongoDB
+* Booking and payment gateway integration
+* Filtering/search options for cars
+* Real-time availability updates
+  
+---
+
+> QuickKeys aims to bring speed, simplicity, and trust to the car rental experience — whether you're a traveler in need or an owner looking to rent out your vehicle
