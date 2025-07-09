@@ -2,6 +2,8 @@
 
 **QuickKeys** is a modern, responsive car rental platform built using **React**, **Tailwind CSS**, and **Vite**. Designed for both renters and vehicle owners, the platform simplifies the process of browsing, booking, and managing car rentals with an intuitive user experience and clean, fast-loading UI. Backend currently under development.
 
+## *MERN STACK* - MongoDB, Express, Node.js, React
+
 ---
 View it on : https://quick-keys-iksha-malhotras-projects.vercel.app/
 ---
