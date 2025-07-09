@@ -24,31 +24,6 @@ View it on : https://quick-keys-iksha-malhotras-projects.vercel.app/
 
 ---
 
-## Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/quickkeys.git
-cd quickkeys/Client
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Run the Development Server
-
-```bash
-npm run dev
-```
-
-The app will run locally at `http://localhost:5173`
-
----
-
 ```
 quickkeys/
 ├── Client/            # Frontend code
