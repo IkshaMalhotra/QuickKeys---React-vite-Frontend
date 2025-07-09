@@ -1,6 +1,6 @@
 # QuickKeys – Seamless Car Rental Platform
 
-**QuickKeys** is a modern, responsive car rental platform built using **React**, **Tailwind CSS**, and **Vite**. Designed for both renters and vehicle owners, the platform simplifies the process of browsing, booking, and managing car rentals with an intuitive user experience and clean, fast-loading UI.
+**QuickKeys** is a modern, responsive car rental platform built using **React**, **Tailwind CSS**, and **Vite**. Designed for both renters and vehicle owners, the platform simplifies the process of browsing, booking, and managing car rentals with an intuitive user experience and clean, fast-loading UI. Backend currently under development.
 
 ---
 
@@ -8,7 +8,7 @@
 
 * Sleek and responsive frontend interface
 * Browse available cars with detailed specs and images
-* Owner dashboard to add and manage car listings *(coming soon)*
+* Owner dashboard to add and manage car listings *(Backend in progress)*
 * Role-based login and authentication *(in progress)*
 * Future integration for bookings and secure payments
 
